@@ -14,7 +14,7 @@ public class JavaLab {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Welcome to git programming");
+        System.out.println("Welcome to git ");
     }
     
 }
